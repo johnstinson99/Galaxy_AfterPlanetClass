@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="PApplet_graphics_library_processing">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../PApplet_graphics_library_processing" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../PApplet_graphics_library_processing" recursive="false" />
+  </library>
+</component>
